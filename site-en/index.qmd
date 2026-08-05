@@ -1,0 +1,60 @@
+---
+pagetitle: "Ecoinformática — Universidad Austral de Chile"
+description: "We study how cities, populations and ecosystems organise themselves, through the data traces they leave behind."
+page-layout: full
+---
+
+::: {.hero}
+[Ecoinformatics Lab · Valdivia, Chile]{.eyebrow}
+
+# Living systems leave traces. We read them.
+
+::: {.lede}
+We work where ecology, complex systems and urban science meet. We use mobile phone
+records, censuses, satellite imagery and biodiversity data to understand how cities,
+populations and the forests of southern Chile organise themselves.
+:::
+
+![](assets/hero-network.svg)
+:::
+
+::: {.content-block}
+
+[Lines of work]{.eyebrow}
+
+::: {.threads}
+::: {.thread}
+### Urban scaling
+How a city's properties change with its size: productivity, occupational diversity,
+water consumption, material footprint. Scaling laws brought to bear on urban policy.
+:::
+
+::: {.thread}
+### Networks and segregation
+Voice-call networks across cities in Chile and Brazil, read as a measure of
+interactional segregation: who talks to whom, across the socioeconomic gradient.
+:::
+
+::: {.thread}
+### Computational ecology
+Species distributions, landscape fragmentation, wildfire and irrecoverable carbon in
+protected areas. Quantitative methods for conserving the Valdivian temperate forest.
+:::
+:::
+
+[See the research in detail](research.qmd) · [Publications](publications.qmd)
+
+## The lab
+
+The Ecoinformatics Lab has run since 2008 within the Instituto de Conservación,
+Biodiversidad y Territorio at Universidad Austral de Chile. Undergraduate, master's
+and doctoral students, scientific programmers and visiting researchers have passed
+through it, and now work in universities, public agencies and industry in Chile and
+abroad.
+
+This site gathers that work: the projects, the publications and the people who made
+them.
+
+[Meet the team and the lab's alumni](people.qmd)
+
+:::

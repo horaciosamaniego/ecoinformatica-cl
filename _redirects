@@ -1,0 +1,28 @@
+# Old WordPress URLs → new site. 301 = permanent, preserves link equity.
+# Cloudflare Pages and Netlify both read this file from the site root.
+
+/sobre-nosotros      /personas.html        301
+/sobre-nosotros/*    /personas.html        301
+/mision-y-vision     /                     301
+/mision-y-vision/*   /                     301
+/material            /                     301
+/material/*          /                     301
+/persona/*           /personas.html        301
+/proyectos           /investigacion.html   301
+/proyectos/*         /investigacion.html   301
+/proyecto/*          /investigacion.html   301
+/publicaciones       /publicaciones.html   301
+/publicaciones/*     /publicaciones.html   301
+/contacto            /contacto.html        301
+/contacto/*          /contacto.html        301
+/noticias            /                     301
+/noticias/*          /                     301
+/categoria/*         /                     301
+
+# Retired installations — the Drupal 7 site and the 2016 WordPress.
+/site/*              /                     301
+/2016/*              /                     301
+
+# Feeds nobody should still be polling, but some aggregator will be.
+/feed                /                     301
+/feed/*              /                     301

@@ -1,0 +1,28 @@
+---
+title: "Contacto"
+description: "Cómo llegar al Laboratorio de Ecoinformática en Valdivia."
+---
+
+## Dónde estamos
+
+Laboratorio de Ecoinformática\
+Instituto de Conservación, Biodiversidad y Territorio\
+Facultad de Ciencias Forestales y Recursos Naturales\
+Universidad Austral de Chile\
+Campus Isla Teja, Valdivia, Chile
+
+Teléfono: +56 63 222 2480
+
+## Escribir
+
+**Horacio Samaniego** — [horacio.samaniego@uach.cl](mailto:horacio.samaniego@uach.cl)
+
+## ¿Quieres hacer tu tesis aquí?
+
+Recibimos estudiantes de pregrado, magíster y doctorado interesados en métodos
+cuantitativos aplicados a ecología, conservación y sistemas urbanos. Ayuda mucho
+tener alguna base de programación —R o Python— aunque no es un requisito de entrada.
+
+Si te interesa, escribe contando qué te llama la atención de las líneas de trabajo
+del laboratorio y qué te gustaría investigar. Un párrafo específico dice más que un
+currículum.

@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: ../_build/es
+
+website:
+  title: "Ecoinformática"
+  description: "Laboratorio de Ecoinformática — Universidad Austral de Chile, Valdivia. Ecología computacional, sistemas complejos y ciencia urbana."
+  site-url: https://www.ecoinformatica.cl
+  open-graph: true
+  twitter-card: true
+  image: assets/og-image.png
+  navbar:
+    title: "Ecoinformática"
+    left:
+      - { href: index.qmd,         text: "Inicio" }
+      - { href: investigacion.qmd, text: "Investigación" }
+      - { href: publicaciones.qmd, text: "Publicaciones" }
+      - { href: personas.qmd,      text: "Personas" }
+      - { href: contacto.qmd,      text: "Contacto" }
+    right:
+      - { href: /en/, text: "EN" }
+  page-footer:
+    center: |
+      Laboratorio de Ecoinformática · Instituto de Conservación, Biodiversidad y Territorio<br>
+      Facultad de Ciencias Forestales y Recursos Naturales, Universidad Austral de Chile<br>
+      Campus Isla Teja, Valdivia, Chile
+
+format:
+  html:
+    theme: [cosmo, assets/ecoinformatica.scss]
+    toc: false
+    lang: es
+    anchor-sections: false

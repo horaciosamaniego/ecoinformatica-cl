@@ -1,0 +1,189 @@
+---
+title: "People"
+description: "Who works in the Ecoinformatics Lab today, and who has passed through it."
+---
+
+## Current team
+
+::: {.registro}
+::: {.row-item}
+[2008–]{.key}
+::: {.val}
+[Horacio Samaniego]{.title}
+[Associate Professor, Instituto de Conservación, Biodiversidad y Territorio · Lab director]{.meta}
+[urban scaling · networks · computational ecology]{.tags}
+:::
+:::
+:::
+
+## Lab alumni
+
+Above all, this lab has been a place where people trained. Everyone listed here wrote
+a thesis, built software, ran analyses or did fieldwork with us, and has since gone
+on to their own work.
+
+::: {.registro}
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Andrea Castillo]{.title}
+[Researcher]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Mariana Bruning-González]{.title}
+[PhD — urban metabolism]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Diego González Calbucheo]{.title}
+[Thesis student — urban green space]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Vanessa Pizarro]{.title}
+[Thesis student]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Boris Sotomayor-Gómez]{.title}
+[Scientific programmer — census and mobile phone data]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Teodoro Dannemann]{.title}
+[Researcher — complex networks]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Dominique Alò]{.title}
+[Researcher — fish conservation and genetics]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Mauricio Franco-Cisterna]{.title}
+[Thesis student]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Daniel Muñoz Velásquez]{.title}
+[Thesis student]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Julio Gerding]{.title}
+[Thesis student]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Gabriela González]{.title}
+[Thesis student]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Pilar Plaza]{.title}
+[Thesis student]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Cynthia Vargas]{.title}
+[Thesis student]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Andrea Oporto]{.title}
+[Thesis student]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Pablo Figueroa]{.title}
+[Thesis student]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Marcela Seguel]{.title}
+[Thesis student]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Reinhard Kückes]{.title}
+[Visiting researcher]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Tomás Vera]{.title}
+[Thesis student]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Álvaro Carrasco]{.title}
+[Thesis student]{.meta}
+:::
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+Years (`——`) and roles are placeholders. Filling in the years is what turns this list
+into a history of the lab; without them it is just a list of names. The personal email
+addresses from the old site were deliberately dropped — publishing them exposed former
+members to spam for no benefit.
+:::
+
+## Collaborators
+
+Dafne Gho · Francisco Humeres · Francisco Maturana (Universidad Alberto Hurtado) ·
+Catalina Rodríguez · Cristian Castillo · Roke Rojas

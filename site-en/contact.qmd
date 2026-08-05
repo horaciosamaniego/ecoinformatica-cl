@@ -1,0 +1,27 @@
+---
+title: "Contact"
+description: "How to reach the Ecoinformatics Lab in Valdivia."
+---
+
+## Where we are
+
+Laboratorio de Ecoinformática\
+Instituto de Conservación, Biodiversidad y Territorio\
+Facultad de Ciencias Forestales y Recursos Naturales\
+Universidad Austral de Chile\
+Campus Isla Teja, Valdivia, Chile
+
+Phone: +56 63 222 2480
+
+## Get in touch
+
+**Horacio Samaniego** — [horacio.samaniego@uach.cl](mailto:horacio.samaniego@uach.cl)
+
+## Interested in doing a thesis here?
+
+We take undergraduate, master's and doctoral students interested in quantitative
+methods applied to ecology, conservation and urban systems. Some programming
+background — R or Python — helps a great deal, though it is not an entry requirement.
+
+If that sounds like you, write and tell us which of the lab's lines of work draws you
+and what you would want to investigate. One specific paragraph says more than a CV.

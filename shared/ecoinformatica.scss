@@ -1,0 +1,132 @@
+/*-- scss:defaults --*/
+
+// ── Palette ────────────────────────────────────────────────
+// Southern Chilean temperate rainforest + oxidised copper.
+$ink:       #101F1B;   // deep forest black-green — text, dark fields
+$paper:     #ECEFE9;   // pale lichen grey-green — page ground
+$moss:      #3D5A4C;   // mid forest green — secondary text
+$verdigris: #2F7F70;   // oxidised copper — links, accents, rules
+$lichen:    #AFBCA3;   // muted sage — hairlines, meta
+$amber:     #C98A2E;   // used once, in the hero network only
+
+$body-bg:    $paper;
+$body-color: $ink;
+$link-color: $verdigris;
+
+// ── Type ───────────────────────────────────────────────────
+// One superfamily, three genuinely different voices:
+// condensed sans display / serif body / mono utility.
+$font-family-sans-serif: "IBM Plex Serif", Georgia, serif;
+$font-family-monospace:  "IBM Plex Mono", ui-monospace, monospace;
+$headings-font-family:   "IBM Plex Sans Condensed", "IBM Plex Sans", sans-serif;
+
+$font-size-root: 17px;
+$line-height-base: 1.62;
+$headings-font-weight: 600;
+
+$navbar-bg: $ink;
+$navbar-fg: $paper;
+$border-radius: 0;
+
+/*-- scss:rules --*/
+
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans+Condensed:wght@500;600;700&family=IBM+Plex+Serif:ital,wght@0,400;0,600;1,400&display=swap");
+
+body { -webkit-font-smoothing: antialiased; }
+
+h1, h2, h3 { letter-spacing: -0.015em; line-height: 1.12; }
+h1 { font-size: clamp(2.1rem, 5.2vw, 3.4rem); font-weight: 700; }
+h2 { font-size: clamp(1.4rem, 2.6vw, 1.9rem); margin-top: 3rem; }
+
+// ── Eyebrow ────────────────────────────────────────────────
+// Mono label naming the kind of thing that follows.
+.eyebrow {
+  font-family: $font-family-monospace;
+  font-size: 0.72rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: $moss;
+  display: block;
+  margin-bottom: 0.6rem;
+}
+
+// ── Hero ───────────────────────────────────────────────────
+.hero {
+  background: $ink;
+  color: $paper;
+  margin: 0 0 3.5rem;
+  padding: clamp(2.5rem, 6vw, 5rem) clamp(1.25rem, 5vw, 4rem);
+}
+.hero h1 { color: $paper; margin: 0 0 1.1rem; max-width: 22ch; }
+.hero .lede {
+  font-size: clamp(1.02rem, 1.6vw, 1.2rem);
+  max-width: 56ch;
+  color: rgba(236, 239, 233, 0.82);
+  margin: 0;
+}
+.hero .eyebrow { color: $lichen; }
+.hero svg { display: block; width: 100%; height: auto; margin-top: 2.5rem; }
+
+// ── The registro ───────────────────────────────────────────
+// Signature element. Publications, people and projects are all
+// records in a ledger: mono key on the left, content on the right.
+.registro { border-top: 1px solid $lichen; margin: 1.75rem 0 2.5rem; }
+
+.registro .row-item {
+  display: grid;
+  grid-template-columns: 5.5rem 1fr;
+  gap: 0 1.5rem;
+  padding: 0.95rem 0.5rem 0.95rem 0;
+  border-bottom: 1px solid rgba(175, 188, 163, 0.55);
+  transition: background-color 120ms ease, box-shadow 120ms ease;
+}
+.registro .row-item:hover,
+.registro .row-item:focus-within {
+  background: rgba(47, 127, 112, 0.06);
+  box-shadow: inset 3px 0 0 0 $verdigris;
+}
+
+.registro .key {
+  font-family: $font-family-monospace;
+  font-size: 0.82rem;
+  color: $moss;
+  padding-top: 0.22rem;
+  font-variant-numeric: tabular-nums;
+}
+.registro .val { margin: 0; }
+.registro .val .title { font-weight: 600; display: block; }
+.registro .val .meta {
+  display: block;
+  color: $moss;
+  font-size: 0.9rem;
+  font-style: italic;
+  margin-top: 0.15rem;
+}
+.registro .val .tags {
+  font-family: $font-family-monospace;
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
+  color: $verdigris;
+  margin-top: 0.3rem;
+  display: block;
+}
+
+@media (max-width: 640px) {
+  .registro .row-item { grid-template-columns: 1fr; gap: 0.3rem; }
+  .registro .key { padding-top: 0; }
+}
+
+// ── Research threads ───────────────────────────────────────
+.threads { display: grid; gap: 1.5rem; margin: 2rem 0 3rem; }
+@media (min-width: 800px) { .threads { grid-template-columns: repeat(3, 1fr); } }
+.thread { border-top: 2px solid $verdigris; padding-top: 0.9rem; }
+.thread h3 { font-size: 1.12rem; margin: 0 0 0.5rem; }
+.thread p { font-size: 0.94rem; color: $moss; margin: 0; }
+
+// ── Accessibility floor ────────────────────────────────────
+a:focus-visible,
+button:focus-visible { outline: 2px solid $verdigris; outline-offset: 2px; }
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; animation: none !important; }
+}

@@ -1,0 +1,93 @@
+---
+title: "Investigación"
+description: "Escalamiento urbano, redes de interacción y segregación, y ecología computacional para la conservación."
+---
+
+[Línea 01]{.eyebrow}
+
+## Escalamiento urbano y metabolismo
+
+Las ciudades no son versiones grandes o pequeñas de lo mismo: sus propiedades cambian
+de forma sistemática y no lineal con el tamaño de la población. Estudiamos cómo
+escalan la productividad, la diversidad de ocupaciones, el consumo de agua y la
+huella material de las ciudades chilenas, y qué implica eso para la planificación.
+
+[Línea 02]{.eyebrow}
+
+## Redes de interacción y segregación
+
+La segregación no es sólo residencial. Usando redes de llamadas telefónicas en
+ciudades de Chile y Brasil, medimos la segregación *interaccional*: con quién
+efectivamente se comunica la gente a lo largo del gradiente socioeconómico, y cómo
+esa estructura difiere de lo que reportan las encuestas.
+
+[Línea 03]{.eyebrow}
+
+## Ecología computacional y conservación
+
+Modelamiento de distribución de especies, análisis de fragmentación del paisaje, y
+evaluación de incendios y pérdida de carbono irrecuperable en áreas protegidas de
+Chile, con foco en el bosque templado lluvioso valdiviano.
+
+## Proyectos
+
+::: {.registro}
+::: {.row-item}
+[2021–2024]{.key}
+::: {.val}
+[Geografía de la Segregación]{.title}
+[Estructura espacial y relacional de la segregación en ciudades chilenas.]{.meta}
+[segregación · redes · ciudades]{.tags}
+:::
+:::
+
+::: {.row-item}
+[2016–2020]{.key}
+::: {.val}
+[Escalamiento, políticas urbanas y sustentabilidad]{.title}
+[Leyes de escalamiento urbano aplicadas al diseño de política pública.]{.meta}
+[escalamiento · sustentabilidad]{.tags}
+:::
+:::
+
+::: {.row-item}
+[2016–2019]{.key}
+::: {.val}
+[Eigencities]{.title}
+[Estructura latente de la movilidad y la actividad urbana a partir de datos de telefonía.]{.meta}
+[movilidad · CDR]{.tags}
+:::
+:::
+
+::: {.row-item}
+[2015–2017]{.key}
+::: {.val}
+[Ecoinformática para Jóvenes]{.title}
+[Proyecto Explora CONICYT de divulgación científica en escuelas de la Región de Los Ríos.]{.meta}
+[divulgación · educación]{.tags}
+:::
+:::
+
+::: {.row-item}
+[2015–2017]{.key}
+::: {.val}
+[Analizador de Biodiversidad]{.title}
+[Herramienta prototipo para el análisis exploratorio de datos de biodiversidad.]{.meta}
+[biodiversidad · software]{.tags}
+:::
+:::
+
+::: {.row-item}
+[2015–2016]{.key}
+::: {.val}
+[¡No más basura! Fondo de Protección Ambiental]{.title}
+[Proyecto de gestión de residuos y educación ambiental comunitaria.]{.meta}
+[territorio · comunidad]{.tags}
+:::
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+Revisa las fechas y descripciones de los proyectos antes de publicar: las reconstruí
+desde el sitio anterior, que sólo indicaba el año de inicio.
+:::

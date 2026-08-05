@@ -1,0 +1,64 @@
+---
+pagetitle: "Ecoinformática — Universidad Austral de Chile"
+description: "Estudiamos cómo se organizan las ciudades, las poblaciones y los ecosistemas, a partir de los rastros de datos que dejan."
+page-layout: full
+---
+
+::: {.hero}
+[Laboratorio de Ecoinformática · Valdivia, Chile]{.eyebrow}
+
+# Los sistemas vivos dejan rastros. Nosotros los leemos.
+
+::: {.lede}
+Trabajamos en la intersección entre ecología, sistemas complejos y ciencia urbana.
+Usamos registros de telefonía móvil, censos, imágenes satelitales y datos de
+biodiversidad para entender cómo se organizan las ciudades, las poblaciones y los
+bosques del sur de Chile.
+:::
+
+![](assets/hero-network.svg)
+:::
+
+::: {.content-block}
+
+[Líneas de trabajo]{.eyebrow}
+
+::: {.threads}
+::: {.thread}
+### Escalamiento urbano
+Cómo cambian las propiedades de una ciudad con su tamaño: productividad, diversidad
+de ocupaciones, consumo de agua, huella material. Leyes de escalamiento aplicadas a
+la política urbana.
+:::
+
+::: {.thread}
+### Redes y segregación
+Redes de llamadas telefónicas en ciudades de Chile y Brasil como medida de
+segregación interaccional: quién habla con quién, a través del gradiente
+socioeconómico.
+:::
+
+::: {.thread}
+### Ecología computacional
+Distribución de especies, fragmentación del paisaje, incendios y carbono
+irrecuperable en áreas protegidas. Métodos cuantitativos para la conservación del
+bosque templado valdiviano.
+:::
+:::
+
+[Ver la investigación en detalle](investigacion.qmd) · [Publicaciones](publicaciones.qmd)
+
+## El laboratorio
+
+El Laboratorio de Ecoinformática funciona desde 2008 en el Instituto de Conservación,
+Biodiversidad y Territorio de la Universidad Austral de Chile. Por él han pasado
+tesistas de pregrado, magíster y doctorado, programadores científicos e
+investigadores visitantes, que hoy trabajan en universidades, servicios públicos y
+empresas dentro y fuera de Chile.
+
+Esta página reúne ese trabajo: los proyectos, las publicaciones y las personas que
+los hicieron posibles.
+
+[Conocer al equipo y a quienes pasaron por el lab](personas.qmd)
+
+:::

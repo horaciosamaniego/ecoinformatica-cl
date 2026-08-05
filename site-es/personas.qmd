@@ -1,0 +1,189 @@
+---
+title: "Personas"
+description: "Quiénes trabajan hoy en el Laboratorio de Ecoinformática y quiénes pasaron por él."
+---
+
+## Equipo actual
+
+::: {.registro}
+::: {.row-item}
+[2008–]{.key}
+::: {.val}
+[Horacio Samaniego]{.title}
+[Profesor Asociado, Instituto de Conservación, Biodiversidad y Territorio · Director del laboratorio]{.meta}
+[escalamiento urbano · redes · ecología computacional]{.tags}
+:::
+:::
+:::
+
+## Pasaron por el laboratorio
+
+El laboratorio ha sido, sobre todo, un lugar de formación. Quienes se listan aquí
+hicieron tesis, análisis, software y terreno con nosotros, y hoy siguen sus propias
+trayectorias.
+
+::: {.registro}
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Andrea Castillo]{.title}
+[Investigadora]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Mariana Bruning-González]{.title}
+[Doctorado — metabolismo urbano]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Diego González Calbucheo]{.title}
+[Tesista — áreas verdes urbanas]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Vanessa Pizarro]{.title}
+[Tesista]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Boris Sotomayor-Gómez]{.title}
+[Programador científico — datos censales y de telefonía]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Teodoro Dannemann]{.title}
+[Investigador — redes complejas]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Dominique Alò]{.title}
+[Investigadora — conservación y genética de peces]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Mauricio Franco-Cisterna]{.title}
+[Tesista]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Daniel Muñoz Velásquez]{.title}
+[Tesista]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Julio Gerding]{.title}
+[Tesista]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Gabriela González]{.title}
+[Tesista]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Pilar Plaza]{.title}
+[Tesista]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Cynthia Vargas]{.title}
+[Tesista]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Andrea Oporto]{.title}
+[Tesista]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Pablo Figueroa]{.title}
+[Tesista]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Marcela Seguel]{.title}
+[Tesista]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Reinhard Kückes]{.title}
+[Investigador visitante]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Tomás Vera]{.title}
+[Tesista]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Álvaro Carrasco]{.title}
+[Tesista]{.meta}
+:::
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+Los años (`——`) y los roles están como marcador de posición. Rellenar los años es lo
+que convierte esta lista en una historia del laboratorio; sin ellos es sólo una lista
+de nombres. Los correos personales del sitio anterior fueron eliminados
+deliberadamente: publicarlos exponía a ex integrantes a spam sin ningún beneficio.
+:::
+
+## Colaboradores
+
+Dafne Gho · Francisco Humeres · Francisco Maturana (Universidad Alberto Hurtado) ·
+Catalina Rodríguez · Cristian Castillo · Roke Rojas

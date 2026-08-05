@@ -1,0 +1,93 @@
+---
+title: "Research"
+description: "Urban scaling, interaction networks and segregation, and computational ecology for conservation."
+---
+
+[Line 01]{.eyebrow}
+
+## Urban scaling and metabolism
+
+Cities are not scaled-up or scaled-down versions of one another: their properties
+change systematically and non-linearly with population size. We study how
+productivity, occupational diversity, water consumption and material footprint scale
+across Chilean cities, and what that implies for planning.
+
+[Line 02]{.eyebrow}
+
+## Interaction networks and segregation
+
+Segregation is not only residential. Using voice-call networks across cities in Chile
+and Brazil, we measure *interactional* segregation: who people actually communicate
+with along the socioeconomic gradient, and how that structure departs from what
+surveys report.
+
+[Line 03]{.eyebrow}
+
+## Computational ecology and conservation
+
+Species distribution modelling, landscape fragmentation analysis, and assessment of
+wildfire and irrecoverable carbon loss in Chile's protected areas, centred on the
+Valdivian temperate rainforest.
+
+## Projects
+
+::: {.registro}
+::: {.row-item}
+[2021–2024]{.key}
+::: {.val}
+[Geography of Segregation]{.title}
+[Spatial and relational structure of segregation in Chilean cities.]{.meta}
+[segregation · networks · cities]{.tags}
+:::
+:::
+
+::: {.row-item}
+[2016–2020]{.key}
+::: {.val}
+[Scaling, urban policy and sustainability]{.title}
+[Urban scaling laws applied to the design of public policy.]{.meta}
+[scaling · sustainability]{.tags}
+:::
+:::
+
+::: {.row-item}
+[2016–2019]{.key}
+::: {.val}
+[Eigencities]{.title}
+[Latent structure of urban mobility and activity from mobile phone data.]{.meta}
+[mobility · CDR]{.tags}
+:::
+:::
+
+::: {.row-item}
+[2015–2017]{.key}
+::: {.val}
+[Ecoinformatics for Young People]{.title}
+[Explora CONICYT outreach project in schools across the Los Ríos region.]{.meta}
+[outreach · education]{.tags}
+:::
+:::
+
+::: {.row-item}
+[2015–2017]{.key}
+::: {.val}
+[Biodiversity Analyser]{.title}
+[Prototype tool for exploratory analysis of biodiversity data.]{.meta}
+[biodiversity · software]{.tags}
+:::
+:::
+
+::: {.row-item}
+[2015–2016]{.key}
+::: {.val}
+[No more waste! Environmental Protection Fund]{.title}
+[Community waste management and environmental education project.]{.meta}
+[territory · community]{.tags}
+:::
+:::
+:::
+
+::: {.callout-note appearance="minimal"}
+Check the project dates and descriptions before publishing — I reconstructed these
+from the previous site, which only recorded a start year.
+:::

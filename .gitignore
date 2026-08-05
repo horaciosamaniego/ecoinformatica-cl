@@ -1,0 +1,6 @@
+_build/
+_site/
+.quarto/
+site-es/assets/
+site-en/assets/
+.DS_Store

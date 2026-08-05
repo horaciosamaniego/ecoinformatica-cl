@@ -7,45 +7,9 @@ description: "Publications from the Ecoinformatics Lab, Universidad Austral de C
 
 Articles, chapters and other work involving lab members. The list is generated from a single BibTeX file, so keeping it current means replacing one file and rebuilding.
 
-[47 publications]{.eyebrow}
+[43 publications]{.eyebrow}
 
 ::: {.registro}
-::: {.row-item}
-[2020]{.key}
-::: {.val}
-[Subway sketches: Mapping urban mobility with mobile phone data]{.title}
-[B. Sotomayor-Gómez, H. Samaniego · Computers, Environment and Urban Systems]{.meta}
-[CDR · movilidad urbana]{.tags}
-:::
-:::
-
-::: {.row-item}
-[2018]{.key}
-::: {.val}
-[The time geography of segregation during working hours]{.title}
-[T. Dannemann, B. Sotomayor-Gómez, H. Samaniego · Royal Society Open Science]{.meta}
-[segregation · networks]{.tags}
-:::
-:::
-
-::: {.row-item}
-[2014]{.key}
-::: {.val}
-[Professional diversity and the productivity of cities]{.title}
-[L. M. A. Bettencourt, H. Samaniego, H. Youn · Scientific Reports]{.meta}
-[urban scaling]{.tags}
-:::
-:::
-
-::: {.row-item}
-[2008]{.key}
-::: {.val}
-[Cities as organisms: Allometric scaling of urban road networks]{.title}
-[H. Samaniego, M. E. Moses · Journal of Transport and Land Use]{.meta}
-[escalamiento · redes viales]{.tags}
-:::
-:::
-
 ::: {.row-item}
 [——]{.key}
 ::: {.val}

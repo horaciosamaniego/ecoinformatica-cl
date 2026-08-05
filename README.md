@@ -42,8 +42,13 @@ theme into each before rendering; those copies are gitignored.
 
 1. Export your record from ORCID (**Works → Export → BibTeX**) or Zotero.
 2. Save it over `shared/references.bib`.
-3. Run `python3 scripts/build_pubs.py`.
-4. Commit the regenerated `.qmd` files.
+3. Check it: `python3 scripts/lint_bib.py`
+4. Fix whatever it flags, then `python3 scripts/build_pubs.py`.
+5. Commit the regenerated `.qmd` files and push.
+
+The linter changes nothing — it reports duplicates, missing years, missing DOIs
+and formatting problems. ORCID exports routinely contain the same paper two or
+three times from different sources, so step 3 is not optional in practice.
 
 The generated pages are committed deliberately: the deploy step then needs only
 Quarto, never Python. Optional BibTeX fields the generator understands:

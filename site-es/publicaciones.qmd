@@ -7,7 +7,7 @@ description: "Publicaciones del Laboratorio de Ecoinformática, Universidad Aust
 
 Artículos, capítulos y trabajos en los que han participado integrantes del laboratorio. La lista se genera desde un único archivo BibTeX, así que actualizarla es reemplazar un archivo y volver a compilar.
 
-[4 publicaciones]{.eyebrow}
+[47 publicaciones]{.eyebrow}
 
 ::: {.registro}
 ::: {.row-item}
@@ -43,6 +43,364 @@ Artículos, capítulos y trabajos en los que han participado integrantes del lab
 [Cities as organisms: Allometric scaling of urban road networks]{.title}
 [H. Samaniego, M. E. Moses · Journal of Transport and Land Use]{.meta}
 [escalamiento · redes viales]{.tags}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[[Validating Urban Scaling Laws through Mobile Phone Data: A Continental-Scale Analysis of Brazil's Largest Cities](https://doi.org/10.48550/ARXIV.2503.00550)]{.title}
+[]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[[Observación espacial y análisis de la relación entre las emisiones atmosféricas de CO2 y el tamaño de las ciudades en Chile](https://doi.org/10.30827/cuadgeo.v59i2.9519)]{.title}
+[M. A. S. Aburto, H. Samaniego]{.meta}
+[Sustainability · Urbanization · Scaling · Complex Systems · Emissions · Emisiones · Escalamiento · Sistemas Complejos · Sostenibilidad · Urbanización]{.tags}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[[MobilityHexVis: Analyzing socioeconomic urban mobility patterns through small multiples visualization](https://doi.org/10.1177/23998083261437300)]{.title}
+[A. Acevedo, E. Graells-Garrido, H. Samaniego · SAGE Publications Ltd STM]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[[Low-cost emerging technologies as a tool to support informal environmental education in children from vulnerable public schools of southern Chile](https://doi.org/10.1080/09500693.2020.1723036)]{.title}
+[D. Alò, A. Castillo, P. Marín Vial, H. Samaniego]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[[Otolith microchemistry and diadromy in Patagonian river fishes](https://doi.org/10.7717/peerj.6149)]{.title}
+[D. Alò, C. Correa, H. Samaniego, C. A. Krabbenhoft, T. F. Turner]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[[The macroecology of fish migration](https://doi.org/10.1111/geb.13199)]{.title}
+[D. Alò, S. N. Lacy, A. Castillo, H. A. Samaniego, P. A. Marquet]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[[Professional diversity and the productivity of cities](https://doi.org/10.1038/srep05393)]{.title}
+[L. M. A. Bettencourt, H. Samaniego, H. Youn]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[[Beyond Per Capita: Superlinear Scaling and Industrial Decoupling in Urban Water Metabolism](https://doi.org/10.1007/s11269-026-04783-0)]{.title}
+[M. Brüning-González, F. Arenas-Araya, J. Amaya, C. Alvarez-Garreton, H. Samaniego]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[[Biodiversity and Resilience to Tsunamis in Chilean Urban Areas: The Role of Ecoinformatics](https://doi.org/10.3390/su15097065)]{.title}
+[M. Brüning-González, P. Villagra, H. Samaniego]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[[Socioeconomic Segregation and Park Greenness: Insights Across a Strong Latitudinal Gradient](https://doi.org/10.1101/2025.03.03.640840)]{.title}
+[D. Calbucheo, H. Samaniego · Ecology]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Estudio de la Colaboracion Cientifica de la region de Valparaiso de Chile desde la Perspectiva de las Redes Complejas]{.title}
+[J. P. Cardenas, G. Olivares, R. Alfaro, F. Cabrera, J. Gibert, D. Goya, H. Samaniego, A. Palacios · Las rutas de la complejidad]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[[Change of niche in guanaco ( \textitLama guanicoe ): the effects of climate change on habitat suitability and lineage conservatism in Chile](https://doi.org/10.7717/peerj.4907)]{.title}
+[A. G. Castillo, D. Alò, B. A. González, H. Samaniego]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[[Wild South American camelids (Mammalia, Artiodactyla): a review of their evolutionary and biogeographic history](https://doi.org/10.1080/02724634.2026.2616326)]{.title}
+[A. G. Castillo, P. Corti, H. Samaniego]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Biogeografía de aves rapaces de Chile]{.title}
+[M. Christine, H. Samaniego, P. A. Marquet · Aves rapaces de Chile.]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[[Patterns of small mammal species richness in Mediterranean and Temperate Chile](http://200.89.70.78:8080/jspui/handle/2250/2725)]{.title}
+[H. L. Cofre, H. Samaniego, P. A. Marquet]{.meta}
+[rarity · diversity · mammals · chile · macroecology · mantel test · phylogenetic]{.tags}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[[The avifauna of Bosque Fray Jorge National Park and Chile ' s Norte Chico](https://doi.org/10.1016/j.jaridenv.2015.06.018)]{.title}
+[C. Cornelius, A. Engilis, D. A. Kelt, P. A. Marquet, R. Medel, P. L. Meserve, J. R. Guti]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[[Social structure in a family group of Guanaco (Lama guanicoe, Ungulate): is female hierarchy based on 'prior attributes' or 'social dynamics'?](https://doi.org/10.1016/j.beproc.2013.05.003)]{.title}
+[L. a. Correa, B. Zapata, H. Samaniego, M. Soto-Gamboa · Elsevier B.V.]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[[The time geography of segregation during working hours](https://doi.org/10.1098/rsos.180749)]{.title}
+[T. Dannemann, B. Sotomayor-Gómez, H. Samaniego]{.meta}
+[complexity · computer modelling and simulation]{.tags}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[[Unveiling Current Guanaco Distribution in Chile Based upon Niche Structure of Phylogeographic Lineages: Andean Puna to Subpolar Forests](https://doi.org/10.1371/journal.pone.0078894)]{.title}
+[B. A. González, H. Samaniego, J. C. Marín, C. F. Estades]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[[Dispersión y Escalamiento Urbano en el Sistema de Ciudades Chileno](https://doi.org/10.5354/0719-5370.2017.48039)]{.title}
+[C. Henríquez, C. Mallea, L. Henríquez-Dole, H. Samaniego]{.meta}
+[Fragstat]{.tags}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[[Dissecting the Spatial Structure of Cities from Human Mobility Patterns to Define Functional Urban Boundaries](http://arxiv.org/abs/1709.06713)]{.title}
+[F. J. Humeres, H. Samaniego]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[[Uncovering the socioeconomic structure of spatial and social interactions in cities](http://arxiv.org/abs/2105.02519)]{.title}
+[M. Lenormand, H. Samaniego]{.meta}
+[Physics - Physics and Society · Computer Science - Computers and Society]{.tags}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[[Uncovering the Socioeconomic Structure of Spatial and Social Interactions in Cities](https://doi.org/10.3390/urbansci7010015)]{.title}
+[M. Lenormand, H. Samaniego]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[[Entropy as a Measure of Attractiveness and Socioeconomic Complexity in Rio de Janeiro Metropolitan Area](https://doi.org/10.3390/e22030368)]{.title}
+[M. Lenormand, H. Samaniego, J. C. Chaves, V. da Fonseca Vieira, M. A. H. B. d. Silva, A. G. Evsukoff · Multidisciplinary Digital Publishing Institute]{.meta}
+[mobile phone data · urban computing · attractiveness · urban entropy · urban mobility]{.tags}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[[Urban green space percolation: From connectivity to ecological management mapping](https://doi.org/10.1016/j.scs.2026.107564)]{.title}
+[Z. Li, S. Gu, H. Samaniego, D. Rybski, M. Behnisch]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[[Evaluación del nicho ambiental de Lycalopex fulvipes (zorro de Darwin) y la incidencia del cambio climático sobre su distribución geográfi ca Evaluation of the environmental niche of Lycalopex fulvipes (Darwin's fox) and the incidence of climate change on](http://ojs.gayana.cl/index.php/gn/article/view/53)]{.title}
+[C. Molina, A. Castillo, H. Samaniego, I. Teja]{.meta}
+[climate change · environmental niche · Models of distribution species]{.tags}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[[Metodología para determinar localizaciones más sostenibles para conjuntos de vivienda social en Valdivia, Chile](https://doi.org/10.5821/ctv.8665)]{.title}
+[D. A. Muñoz Velásquez, A. Zumelzu, H. Samaniego, G. Gonzalez]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[[The importance of tree species and size for the epiphytic bromeliad Fascicularia bicolor in a South-American temperate rainforest (Chile)](https://doi.org/10.3832/ifor2710-013)]{.title}
+[G. Ortega-Solís, I. Díaz, D. Mellado-Mansilla, R. Moreno-González, J. Godoy, H. Samaniego · SISEF - Italian Society of Silviculture and Forest Ecology]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[[Spatial and temporal representation of marine fish occurrences available online](https://doi.org/10.1016/j.ecoinf.2023.102403)]{.title}
+[V. Pizarro, A. G. Castillo, A. Piñones, H. Samaniego]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Scaling, urban policy, and management for sustainability: A view from complexity science]{.title}
+[H. Samaniego]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[[The Topology of Communicating Across Cities of Increasing Sizes, or the Complex Task of “Reaching Out” in Larger Cities](https://doi.org/10.1007/978-3-030-36656-8_6)]{.title}
+[H. Samaniego, M. Franco-Cisterna, B. Sotomayor-Gómez · Theories and Models of Urbanization: Geography, Economics and Computing Sciences]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[[Range structure analysis: Unveiling the internal structure of species' ranges](https://doi.org/10.1007/s12080-013-0177-5)]{.title}
+[H. Samaniego, P. A. Marquet]{.meta}
+[Metapopulation · Population biology · Range dynamics · Species distribution · Species' border]{.tags}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[[Mammal and butterfly species richness in Chile: Taxonomic covariation and history](https://doi.org/10.4067/S0716-078X2009000100009)]{.title}
+[H. Samaniego, P. A. Marquet]{.meta}
+[Chile · Species richness · Latitudinal gradient · Lepidoptera · Mammalia]{.tags}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[[Cities as organisms: Allometric scaling of urban road networks](https://doi.org/10.5198/jtlu.v1i1.29)]{.title}
+[H. Samaniego, M. E. Moses]{.meta}
+[allometric scaling · eory · metabolic scaling · network growth · urban form]{.tags}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[[Analyzing Taylor’s Scaling Law: qualitative differences of social and territorial behavior on colonization/extinction dynamics](https://doi.org/10.1007/s10144-011-0287-0)]{.title}
+[H. Samaniego, G. Sérandour, B. T. Milne · Springer Japan]{.meta}
+[Biomedical and Life Sciences · Mean-variance scaling]{.tags}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[[Insecticide resistance mechanisms in the green peach aphid Myzus persicae (Hemiptera: Aphididae) I: A transcriptomic survey.](https://doi.org/10.1371/journal.pone.0036366)]{.title}
+[A. X. Silva, G. Jander, H. Samaniego, J. S. Ramsey, C. C. Figueroa]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[[Distribution patterns of flora and fauna in southern Chilean Coastal rain forests: Integrating Natural History and GIS](https://doi.org/10.1007/s10531-006-9073-2)]{.title}
+[C. Smith-Ramírez, I. Díaz, P. Pliscoff, C. Valdovinos, M. A. Méndez, J. Larraín, H. Samaniego]{.meta}
+[Amphibian distributions · Arthropod distributions · Bird distributions · Bryophyte distributions · Hotspots · Vascular plant distribution]{.tags}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[[City limits in the age of smartphones and urban scaling](https://doi.org/10.1016/j.compenvurbsys.2019.101423)]{.title}
+[B. Sotomayor-Gómez, H. Samaniego]{.meta}
+[\_tablet · Big data · Complex systems · Scaling laws · Urban informatics · City boundaries definition · Social computing · Spectral network analysis]{.tags}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[[Open Census: Framework para extraer y procesar datos censales desde Redatam](https://www.cepal.org/es/enfoques/open-census-framework-extraer-procesar-datos-censales-redatam)]{.title}
+[B. Sotomayor-Gómez, H. Samaniego, T. Dannemann, G. González · CEPAL]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[Aves y Mamíferos del Bosque]{.title}
+[P. M. Vergara, A. Rivera-Hutinel, A. A. Farías, H. Cofré, H. Samaniego, I. J. Hahn]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[¿Cómo Responden los Animales del Bosque a las Perturbaciones Antropogénicas?]{.title}
+[P. M. Vergara, A. Rivera-Hutinel, A. A. Farías, H. Cofré, H. Samaniego, I. J. Hahn]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[[Scaling and universality in urban economic diversification](https://doi.org/10.1098/rsif.2015.0937)]{.title}
+[H. Youn, L. M. A. Bettencourt, J. Lobo, D. Strumsky, H. Samaniego, G. B. West]{.meta}
+:::
+:::
+
+::: {.row-item}
+[——]{.key}
+::: {.val}
+[[Validating urban scaling laws through mobile phone data: analysis of Brazil’s largest cities](https://doi.org/10.1007/s43762-026-00252-x)]{.title}
+[R. de S. Alencar, F. L. Ribeiro, H. Samaniego, R. Menezes, A. G. Evsukoff]{.meta}
+[Social interactions · Human mobility · CDR data · Urban scaling]{.tags}
 :::
 :::
 
